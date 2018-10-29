@@ -240,35 +240,35 @@ font-weight: 700;
 
 .btn_send{
 padding: 20px;
-border: none; 
+border: none;
 }
 
 /* FOOTER */
 .wrapper_footer{
-height: auto;
-font-size: 20px;
-font-weight: 400;
+  height: auto;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 .social_footer a{
-border: 2px solid white;
-height: 50px;
-width: 50px;
-border-radius: 100%;
-display: inline-block;
+  border: 2px solid white;
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  display: inline-block;
 }
 
 .social_footer a:hover{
-color: black;
-background-color: white;
+  color: black;
+  background-color: white;
 }
 
 .social_footer a{
-font-size: 20px;
-line-height: 50px;
+  font-size: 20px;
+  line-height: 50px;
 }
 
 .wrapper_copyright{
-background-color: #1a252f;
-height: auto;
+  background-color: #1a252f;
+  height: auto;
 }
